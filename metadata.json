@@ -1,0 +1,6 @@
+{
+  "name": "NexNote",
+  "description": "Architectural dark note intelligence system that captures, structures, and schedules audio, images, OCR documents, and thoughts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

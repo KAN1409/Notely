@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NexNote</string>
+    <string name="quick_capture_tile_label">NexNote Capture</string>
+    <string name="widget_title">NexNote Quick Capture</string>
+    <string name="notification_channel_reminders">Reminders &amp; Follow-ups</string>
+    <string name="notification_channel_reminders_desc">Notifications for scheduled note reminders and open follow-up loops</string>
+</resources>
